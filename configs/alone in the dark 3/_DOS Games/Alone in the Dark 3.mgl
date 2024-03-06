@@ -1,0 +1,6 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/alone in the dark 3/alone in the dark 3.vhd"/>
+    <file delay="0" type="s" index="4" path="media/alone in the dark 3/alone in the dark 3.iso"/>
+    <reset delay="1"/>
+</mistergamedescription>
