@@ -1,0 +1,7 @@
+
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/loom/loom.vhd"/>
+    <file delay="0" type="s" index="4" path="media/loom/loom.cue"/>
+    <reset delay="1"/>
+</mistergamedescription>

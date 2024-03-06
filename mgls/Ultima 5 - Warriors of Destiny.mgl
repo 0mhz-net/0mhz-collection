@@ -1,0 +1,5 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/ultima5/ultima5.vhd"/>
+    <reset delay="1"/>
+</mistergamedescription>
