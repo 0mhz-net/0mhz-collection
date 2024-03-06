@@ -1,0 +1,7 @@
+
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/need for speed/need for speed.vhd"/>
+    <file delay="0" type="s" index="4" path="media/need for speed/need for speed.iso"/>
+    <reset delay="1"/>
+</mistergamedescription>

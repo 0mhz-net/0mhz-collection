@@ -1,0 +1,5 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/wolfenstein 3d spear of destiny/wolfenstein 3d spear of destiny.vhd"/>
+    <reset delay="1"/>
+</mistergamedescription>

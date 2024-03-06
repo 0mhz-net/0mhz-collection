@@ -1,0 +1,5 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/kings quest 4/kings quest 4.vhd"/>
+    <reset delay="1"/>
+</mistergamedescription>
