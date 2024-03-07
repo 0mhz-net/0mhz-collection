@@ -1,6 +1,6 @@
 # 0MHz Collection
 
-This is a simple collection of scripts and configurations that, when pointed to a directory of preconfigured VHD files will produce dedicated MGL files for the MiSTer FPGA system.
+This is a simple collection of scripts and configurations that, when pointed to a directory of preconfigured VHD files, will produce dedicated MGL files for the MiSTer FPGA system.
 
 It gives you a top-level `DOS Games` configuration, and lets you have on virtual hard drive (VHD) for each game, making it easy to cherry-pick just the games you want to have available.
 
