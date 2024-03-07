@@ -1,6 +1,0 @@
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/adark3/adark3.vhd"/>
-    <file delay="0" type="s" index="4" path="media/adark3/adark3.iso"/>
-    <reset delay="1"/>
-</mistergamedescription>

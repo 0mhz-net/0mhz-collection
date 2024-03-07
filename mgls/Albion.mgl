@@ -1,6 +1,0 @@
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/albion/albion.vhd"/>
-    <file delay="0" type="s" index="4" path="media/albion/albion.iso"/>
-    <reset delay="1"/>
-</mistergamedescription>

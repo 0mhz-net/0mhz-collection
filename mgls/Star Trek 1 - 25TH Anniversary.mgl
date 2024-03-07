@@ -1,6 +1,0 @@
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/trek1/trek1.vhd"/>
-    <file delay="0" type="s" index="4" path="media/trek1/trek1.cue"/>
-    <reset delay="1"/>
-</mistergamedescription>

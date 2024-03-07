@@ -1,7 +1,0 @@
-
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/war2/war2.vhd"/>
-    <file delay="0" type="s" index="4" path="media/war2/wc2btdp.cue"/>
-    <reset delay="1"/>
-</mistergamedescription>

@@ -1,7 +1,0 @@
-
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/panzer1/panzer1.vhd"/>
-    <file delay="0" type="s" index="4" path="media/panzer1/panzer1.iso"/>
-    <reset delay="1"/>
-</mistergamedescription>

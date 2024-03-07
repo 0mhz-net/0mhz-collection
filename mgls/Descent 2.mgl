@@ -1,6 +1,0 @@
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/descent2/descent2.vhd"/>
-    <file delay="0" type="s" index="2" path="media/descent2/descent2.cue"/>
-    <reset delay="1"/>
-</mistergamedescription>

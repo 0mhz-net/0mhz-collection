@@ -1,6 +1,0 @@
-<mistergamedescription>
-    <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/homm2/homm2.vhd"/>
-    <file delay="0" type="s" index="4" path="media/homm2/homm2pol.cue"/>
-    <reset delay="1"/>
-</mistergamedescription>
