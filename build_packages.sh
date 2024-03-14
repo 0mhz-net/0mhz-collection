@@ -39,17 +39,25 @@ find "$MGL_DIR" -type f -name "*.mgl" | while read file; do
   echo "Target Directory: $new_target"
   echo "Zip archive: $zip_file"
 
+  # clean out last tmp contents
   rm -fr $TARGET_DIR/tmp
+
+  # copy media contents for current game/media
   mkdir -p "$new_target"
   cp -r "$source_dir"/* "$new_target"
 
+  # copy MiSTer ao486 core config
   mkdir -p "$TARGET_DIR/tmp/config"
   cp $CONFIG_FILE "$TARGET_DIR/tmp/config"
 
+  # copy MGL file
+  mkdir -p "$TARGET_DIR/tmp/_DOS Games"
+  cp "$file" "$TARGET_DIR/tmp/_DOS Games"
+
+  # shellcheck disable=SC2164
   cd "$TARGET_DIR/tmp"
   zip -r "$TARGET_DIR/zips/$zip_file" *
+  # shellcheck disable=SC2164
   cd "$TARGET_DIR"
   echo "---------------------------------------------------------------------------"
-
-
 done
