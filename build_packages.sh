@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if ! command -v xmllint &> /dev/null; then
+    echo "xmllint could not be found. Please install it."
+    # Optionally, exit the script if xmllint is required for further operations
+    exit 1
+fi
+
 MGL_DIR=$(realpath ./mgls)  # Default MGL directory relative to the script's location
 MEDIA_BASE=$HOME
 TARGET_DIR=$(realpath ./target)
