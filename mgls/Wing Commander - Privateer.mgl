@@ -1,0 +1,7 @@
+
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/wing commander privateer/wing commander privateer.vhd"/>
+    <file delay="0" type="s" index="4" path="media/wing commander privateer/wing commander privateer.iso"/>
+    <reset delay="1"/>
+</mistergamedescription>
