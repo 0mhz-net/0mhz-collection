@@ -1,0 +1,6 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="0" path="media/wizardry 1/wizardry 1.img"/>
+    <file delay="0" type="s" index="2" path="media/wizardry 1/wizardry 1.vhd"/>
+    <reset delay="1"/>
+</mistergamedescription>
