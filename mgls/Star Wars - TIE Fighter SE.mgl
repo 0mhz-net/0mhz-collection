@@ -1,6 +1,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
     <file delay="0" type="s" index="2" path="media/star wars tie fighter/star wars tie fighter.vhd"/>
-    <file delay="0" type="s" index="4" path="media/star wars tie fighter/star wars tie fighter.cue"/>
+    <file delay="0" type="s" index="4" path="media/star wars tie fighter/star wars tie fighter.chd"/>
     <reset delay="1"/>
 </mistergamedescription>

@@ -2,6 +2,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
     <file delay="0" type="s" index="2" path="media/panzer general 1/panzer general 1.vhd"/>
-    <file delay="0" type="s" index="4" path="media/panzer general 1/panzer general 1.iso"/>
+    <file delay="0" type="s" index="4" path="media/panzer general 1/panzer general 1.chd"/>
     <reset delay="1"/>
 </mistergamedescription>

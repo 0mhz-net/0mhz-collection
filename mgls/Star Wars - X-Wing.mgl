@@ -2,6 +2,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
     <file delay="0" type="s" index="2" path="media/star wars x-wing/star wars x-wing.vhd"/>
-    <file delay="0" type="s" index="4" path="media/star wars x-wing/star wars x-wing.iso"/>
+    <file delay="0" type="s" index="4" path="media/star wars x-wing/star wars x-wing.chd"/>
     <reset delay="1"/>
 </mistergamedescription>

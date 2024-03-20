@@ -2,6 +2,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
     <file delay="0" type="s" index="2" path="media/sam and max hit the road/sam and max hit the road.vhd"/>
-    <file delay="0" type="s" index="4" path="media/sam and max hit the road/sam and max hit the road.cue"/>
+    <file delay="0" type="s" index="4" path="media/sam and max hit the road/sam and max hit the road.chd"/>
     <reset delay="1"/>
 </mistergamedescription>

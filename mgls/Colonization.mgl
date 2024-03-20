@@ -1,6 +1,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/sid meiers colonization/sid meiers colonization.vhd"/>
-    <file delay="0" type="s" index="4" path="media/sid meiers colonization/sid meiers colonization.cue"/>
+    <file delay="0" type="s" index="2" path="media/colonization/colonization.vhd"/>
+    <file delay="0" type="s" index="4" path="media/colonization/colonization.chd"/>
     <reset delay="1"/>
 </mistergamedescription>
