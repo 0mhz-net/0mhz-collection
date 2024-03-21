@@ -1,6 +1,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
     <file delay="0" type="s" index="2" path="media/heroes of might and magic 2/heroes of might and magic 2.vhd"/>
-    <file delay="0" type="s" index="4" path="media/heroes of might and magic 2/heroes of might and magic 2.cue"/>
+    <file delay="0" type="s" index="4" path="media/heroes of might and magic 2/heroes of might and magic 2.chd"/>
     <reset delay="1"/>
 </mistergamedescription>
