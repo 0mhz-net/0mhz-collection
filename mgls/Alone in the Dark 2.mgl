@@ -1,6 +1,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/alone in the dark 2/alone in the dark 2.vhd"/>
-    <file delay="0" type="s" index="4" path="media/alone in the dark 2/alone in the dark 2.cue"/>
+    <file delay="0" type="s" index="2" path="media/alone in the dark 2/alone in the dark 2.r2.vhd"/>
+    <file delay="0" type="s" index="4" path="media/alone in the dark 2/alone in the dark 2.r2.chd"/>
     <reset delay="1"/>
 </mistergamedescription>
