@@ -1,0 +1,6 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/legend of kyrandia - book two/legend of kyrandia - book two.vhd"/>
+    <file delay="0" type="s" index="4" path="media/legend of kyrandia - book two/legend of kyrandia - book two.chd"/>
+    <reset delay="1"/>
+</mistergamedescription>
