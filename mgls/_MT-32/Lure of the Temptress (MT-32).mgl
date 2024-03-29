@@ -1,0 +1,5 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/lure of the temptress.mt32/lure of the temptress.mt32.vhd"/>
+    <reset delay="1"/>
+</mistergamedescription>
