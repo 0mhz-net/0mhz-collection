@@ -1,5 +1,5 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/ultima black gate & forge of virtue/ultima black gate & forge of virtue.vhd"/>
+    <file delay="0" type="s" index="2" path="media/ultima 7/ultima 7.vhd"/>
     <reset delay="1"/>
 </mistergamedescription>
