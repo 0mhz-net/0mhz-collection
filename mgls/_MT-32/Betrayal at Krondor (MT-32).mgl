@@ -1,0 +1,6 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <file delay="0" type="s" index="2" path="media/betrayal at krondor.mt32/betrayal at krondor.mt32.vhd"/>
+    <file delay="0" type="s" index="4" path="media/betrayal at krondor.mt32/betrayal at krondor.mt32.chd"/>
+    <reset delay="1"/>
+</mistergamedescription>
