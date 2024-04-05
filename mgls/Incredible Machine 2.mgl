@@ -1,0 +1,7 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <setname>ao486-trident-bios</setname>
+    <file delay="0" type="s" index="2" path="media/incredible machine 2/incredible machine 2.vhd"/>
+    <file delay="0" type="s" index="4" path="media/incredible machine 2/incredible machine 2.chd"/>
+    <reset delay="1"/>
+</mistergamedescription>
