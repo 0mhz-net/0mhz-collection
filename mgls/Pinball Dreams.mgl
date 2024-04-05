@@ -1,0 +1,6 @@
+<mistergamedescription>
+    <rbf>_computer/ao486</rbf>
+    <setname>ao486-open-source-bios</setname>
+    <file delay="0" type="s" index="2" path="media/pinball dreams/pinball dreams.vhd"/>
+    <reset delay="1"/>
+</mistergamedescription>
