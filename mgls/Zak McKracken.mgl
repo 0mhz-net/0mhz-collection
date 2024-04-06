@@ -1,5 +1,5 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/zak mckracken/zak mckracken.vhd"/>
+    <file delay="0" type="s" index="2" path="media/zak mckracken/zak mckracken.r2.vhd"/>
     <reset delay="1"/>
 </mistergamedescription>
