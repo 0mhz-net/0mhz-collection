@@ -1,5 +1,5 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/commander keen 6/commander keen 6.vhd"/>
+    <file delay="0" type="s" index="2" path="media/commander keen 6/commander keen 6.r2.vhd"/>
     <reset delay="1"/>
 </mistergamedescription>
