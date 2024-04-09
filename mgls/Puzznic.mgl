@@ -1,6 +1,6 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-	<setname>ao486-puzznic</setname>
+    <setname>ao486-puzznic</setname>
     <file delay="0" type="s" index="2" path="media/puzznic/puzznic.vhd"/>
     <reset delay="1"/>
 </mistergamedescription>
