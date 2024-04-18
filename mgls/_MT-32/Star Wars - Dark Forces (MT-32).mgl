@@ -1,6 +1,5 @@
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/star wars dark forces.mt32/star wars dark forces.mt32.vhd"/>
-    <file delay="0" type="s" index="4" path="media/star wars dark forces.mt32/star wars dark forces.mt32.chd"/>
+    <file delay="0" type="s" index="2" path="media/star wars dark forces.mt32/star wars dark forces.r2.mt32.vhd"/>
     <reset delay="1"/>
 </mistergamedescription>
