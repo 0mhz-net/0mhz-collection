@@ -1,6 +1,5 @@
-
 <mistergamedescription>
     <rbf>_computer/ao486</rbf>
-    <file delay="0" type="s" index="2" path="media/syndicate plus/syndicate plus.vhd"/>
+    <file delay="0" type="s" index="2" path="media/syndicate/syndicate.vhd"/>
     <reset delay="1"/>
 </mistergamedescription>
